@@ -3,6 +3,7 @@ Start using GitHub repositories from [CarletonABL](https://github.com/CarletonAB
 
  1. Install git on your computer (Follow the instructions below)
  1. Go through the excellent tryGit online tutorial [here](https://try.github.io)
+ 1. For single developers, a good primer/tutorial for git can be found [here](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/).
  2. Follow GitHub's [Hello World](https://guides.github.com/activities/hello-world/) tutorial to get familiar with GitHub.
  2. Send the CarletonABL organization's maintainer an email and provide your GitHub account name to add you as a member. The current maintainer is Kyle.
  3. Install GitHub Desktop (Follow the instructions below).
