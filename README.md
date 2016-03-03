@@ -1,5 +1,5 @@
 # Getting Started
-Start using GitHub repositories from [CarletonABL](https://github.com/CarletonABL) by following this guide. First, get familiar with the command line, git, GitHub and git workflows by following the instructions below. You may also want to [read-up on subversion control and git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) to find out what it's all about. The website [https://git-scm.com/](https://git-scm.com/) is the official place for downloads and documentation. Follow these steps:
+Start using GitHub repositories from [CarletonABL](https://github.com/CarletonABL) by following this guide. First, get familiar with the command line, git, GitHub and git workflows by following the instructions below. You may also want to [read-up on version control and git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) to find out what it's all about. The website [https://git-scm.com/](https://git-scm.com/) is the official place for downloads and documentation. Follow these steps:
 
  1. Install git on your computer (Follow the instructions below)
  1. Go through the excellent tryGit online tutorial [here](https://try.github.io)
@@ -27,7 +27,7 @@ If you want to use open-sourced, cross-platform, and standards-compliant compile
 
 ## Install git
 
-You can install git many ways for many operating systems. Go [here for installation instructions](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git). Not that a package manager can keep your software updated, ensure dependencies are installed and up to date, and maintain interoperability with other software. It's recommended (and easier) to use a package manager.
+You can install git many ways for many operating systems. Go [here for installation instructions](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git). Note that a package manager can keep your software updated, ensure dependencies are installed and up to date, and maintain interoperability with other software. It's recommended (and easier) to use a package manager.
 
 The following commands can be used instead of a graphical installer.
 
@@ -46,6 +46,7 @@ If you've installed HomeBrew, run
 Install git with your distribution's package manager. For example, on Debian-based systems such as Ubuntu, run the command
 
         sudo apt-get install git
+
 ### Windows
 
 If you've using MSYS2, it's package manager is called pacman (adopted from [Arch Linux](https://wiki.archlinux.org/index.php/pacman)). In your bash shell, run
@@ -63,8 +64,31 @@ Replace name and email with your name and GitHub account email address.
 
 ## Install GitHub Desktop
 
-If you're more familiar with graphical interfaces, a great way to start using GitHub is to download (GitHub Desktop)[https://desktop.github.com/] available for Windows or Mac.
+If you're more familiar with graphical interfaces, a great way to start using GitHub is to download [GitHub Desktop](https://desktop.github.com/) available for Windows or Mac.
 
 Once installed, make sure you sign in to your GitHub account in the Preferences dialog. In the advanced section of the preferences dialog, set your name and email associated with your GitHub account for the Git Config input fields.
 
 More detailed information on installing and setting up GitHub Desktop can be found [here](https://help.github.com/desktop/guides/getting-started/setting-up-github-desktop/).
+
+
+## Git Workflows
+
+Git is a powerful system and may seem a bit tedious, especially small to medium-sized projects. There are workflows that allow you to effectively use git without getting overwhelmed with scattered branches, commits, and conflicts. Here is a list of workflow tutorials and ideas:
+
+- [Centralized and Git-flow atlassian.com tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Centralized vs. Git-flow blog post](https://bocoup.com/weblog/git-workflows-for-successful-deployment)
+- [Git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+- [Git-flow nvie.com overview](http://nvie.com/posts/a-successful-git-branching-model/)
+
+## Tips
+
+In general,
+
+ - Maintain your .gitignore file judiciously. Prevent generated files from being versioned.
+ - Avoid adding binary or generated files to your git repository. Include source files and build instructions instead.
+ - Maintain a top-level README.md file with relevant and up-to-date instructions.
+ - Document your code! [Here are some guidelines](http://docs.writethedocs.org/)
+
+
+
+
