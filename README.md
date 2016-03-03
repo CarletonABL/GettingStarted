@@ -11,7 +11,7 @@ Start using GitHub repositories from [CarletonABL](https://github.com/CarletonAB
 
 ## Unfamiliar with the command line? Start Here
 
-It's recommended to install git as a command-line tool. If you're unfamiliar with the command-line interface, get familiar with a [bash shell](https://www.google.ca/search?q=what+is+bash) for [Mac](https://www.google.ca/search?q=introduction+to+the+mac+command+line) or [Linux](https://www.google.ca/search?q=introduction+to+the+linux+command+line) and [Powershell](https://www.google.ca/search?q=introduction+to+the+linux+command+line) or [bash (MSYS2)](https://msys2.github.io/) for Windows.
+It's recommended to install git as a command-line tool. If you're unfamiliar with the command-line interface, get familiar with a [bash shell](https://www.google.ca/search?q=what+is+a+bash+shell) for [Mac](https://www.google.ca/search?q=introduction+to+the+mac+command+line) or [Linux](https://www.google.ca/search?q=introduction+to+the+linux+command+line) and [Powershell](https://www.google.ca/search?q=introduction+to+the+linux+command+line) or [bash (MSYS2)](https://msys2.github.io/) for Windows.
 
 ### Setup for Mac
 
