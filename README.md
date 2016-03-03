@@ -1,5 +1,5 @@
 # Getting Started
-Start using GitHub repositories from [CarletonABL](https://github.com/CarletonABL) by following this guide. First, get familiar with the command line, git, GitHub and git workflows by following the instructions below. You may also want to [read-up on git](https://www.google.ca/search?q=what+is+git) to find out what it's all about. The website [https://git-scm.com/](https://git-scm.com/) is the official place for downloads and documentation. Follow these steps:
+Start using GitHub repositories from [CarletonABL](https://github.com/CarletonABL) by following this guide. First, get familiar with the command line, git, GitHub and git workflows by following the instructions below. You may also want to [read-up on subversion control and git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) to find out what it's all about. The website [https://git-scm.com/](https://git-scm.com/) is the official place for downloads and documentation. Follow these steps:
 
  1. Install git on your computer (Follow the instructions below)
  1. Go through the excellent tryGit online tutorial [here](https://try.github.io)
